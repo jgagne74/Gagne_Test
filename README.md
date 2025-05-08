@@ -1,2 +1,2 @@
 # Gagne_Test
-This is a repository for my software skill test. 
+This is a repository for testing my software skills and professional development. 
